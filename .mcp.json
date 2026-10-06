@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vibgrate-cloud": {
+      "type": "streamable-http",
+      "url": "https://mcp.vibgrate.com"
+    }
+  }
+}
